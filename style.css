@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: peachpuff;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+h3{
+    background: red;
+    text-align: center;
+}
+
+input[type="text"] {
+    background: red;
+    font-size: 30px;
+}
+
+table{
+    /* border: 1px solid #000; */
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    border: 1px solid #000;
+}
